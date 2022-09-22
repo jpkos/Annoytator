@@ -3,6 +3,8 @@ GUI for annotating videos and visualizing sensor data associated with the video
 
 This GUI is meant for annotating videos and viewing the annotations together with sensor data recorded simultaneously with the video.
 
+Video demonstrating the app: https://www.dropbox.com/s/ocmbmah2chbpmof/demo1.mp4?dl=0 
+
 So far this sensor data has been eye tracking data, recorded with the SeeTrue add-on eye tracker (2022). See https://www.seetruetechnologies.com/.
 
 Created as part of my PhD work, to do annotations for various projects, mainly for the following publications:
